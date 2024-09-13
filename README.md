@@ -1,0 +1,3 @@
+CopyCatch Crew
+
+A plagiarism checker tool that detects copied and AI-generated content, providing detailed reports and similarity metrics.....
